@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body{
+    background-image:url("../public/blackbg.jpg");
+    background-size: cover;
+    /* background-color: rgb(112, 122, 138); */
+}
